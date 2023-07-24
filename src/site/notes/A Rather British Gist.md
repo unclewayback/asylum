@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/a-rather-british-gist/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/a-rather-british-gist/","dgPassFrontmatter":true,"created":"2023-07-23T10:46:30.976+02:00","updated":"2023-07-23T21:38:25.981+02:00"}
 ---
 
 
