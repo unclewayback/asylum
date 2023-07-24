@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/obliterature/","dgPassFrontmatter":true,"created":"2023-07-24T09:30:43.257+02:00","updated":"2023-07-24T10:14:12.417+02:00"}
+{"dg-publish":true,"permalink":"/obliterature/","dgPassFrontmatter":true,"created":"2023-07-24T09:30:43.257+02:00","updated":"2023-07-24T10:19:23.534+02:00"}
 ---
 
 
@@ -15,6 +15,6 @@ Obliterature is the process of preparing this or making it more inviting for oth
 
 The binding of the demon is the beyond pathology of its liberation
 
-*
+---
 
 ob, it comes from obstruction - in the way of - and as a prefix, ob-, tends to invert. When we say literature, we are close to saying *learning*. In a sense then, obliterature is our own unlearning. Well Daatht.
