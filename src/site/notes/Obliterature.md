@@ -1,9 +1,7 @@
 ---
-{"dg-publish":true,"dg-created":true,"dg-updated":true,"dg-pass-frontmatter":true,"permalink":"/obliterature/","dgPassFrontmatter":true,"created":"","updated":""}
+{"dg-publish":true,"permalink":"/obliterature/","dgPassFrontmatter":true,"created":"","updated":""}
 ---
 
-
-#isthisatag
 
 Obliterature is produced from a journal by excision.
 
