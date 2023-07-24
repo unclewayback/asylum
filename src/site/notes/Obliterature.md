@@ -1,11 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/obliterature/","dgPassFrontmatter":true,"created":"2023-07-24T09:30:43.257+02:00","updated":"2023-07-24T10:00:31.322+02:00"}
+{"dg-publish":true,"permalink":"/obliterature/","dgPassFrontmatter":true,"created":"2023-07-24T09:30:43.257+02:00","updated":"2023-07-24T10:03:56.986+02:00"}
 ---
 
-
-MMM dd, yyyy HH:mm
-
-yyyy MMMM dd EEEE HH:mm
 
 Obliterature is produced from a journal by excision.
 
