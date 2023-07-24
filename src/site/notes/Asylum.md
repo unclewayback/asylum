@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"dg-home":true,"permalink":"/asylum/","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"2023-07-22T12:02:36.310+02:00","updated":"2023-07-24T10:09:25.495+02:00"}
+{"dg-publish":true,"dg-home":true,"permalink":"/asylum/","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"2023-07-22T12:02:36.310+02:00","updated":"2023-07-24T10:16:13.837+02:00"}
 ---
 
 
-I;m gonna be as crazy as i want inside this box
+I;m gonna be as crazy as i want inside this box                [[hole\|hole]]
 that's what i growled just now
 
 One of the things I said to Chou, that I realise is true - I was talking about how they'll be layers, and this thing i'm working on at the mo is one of the deepest layers, but that for me it's perhaps the most important - I said that I can't do the nice smile, the nice polite customer facing Hello this is me Welcome to Winding Brook face, without this weird thing behind me going
