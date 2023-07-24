@@ -3,6 +3,10 @@
 ---
 
 
+[dg-created
+
+dg-updated
+
 Obliterature is produced from a journal by excision.
 
 If we need to locate the sanctuary in or as an object which anybody can reach, it is a diary. Obliterature is the demonology of diary writing.
