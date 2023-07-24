@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/asylum/","tags":["gardenEntry"]}
+{"dg-publish":true,"dg-home":true,"permalink":"/asylum/","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"2023-07-22T12:02:36.310+02:00","updated":"2023-07-22T13:36:58.499+02:00"}
 ---
 
 
