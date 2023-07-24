@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/hole/","created":"","updated":""}
+{"dg-publish":true,"dg-created":true,"permalink":"/hole/","dgPassFrontmatter":true,"created":"2023-07-22T13:37:03.219+02:00","updated":"2023-07-22T14:15:25.269+02:00"}
 ---
 
 
